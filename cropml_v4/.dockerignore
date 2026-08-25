@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+saved_sessions/*.json
+.git
+.gitignore
+*.md
+benchmark/results/
